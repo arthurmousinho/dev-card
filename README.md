@@ -9,6 +9,10 @@ Gerador de um cartão de visitas para desenvolvedores
 ## Sobre💡
 - Projeto desenvolvido com os conhecimentos sobre JavaScript DOM adiquiridos no ExplorerLab 01 da [Rocketseat](https://www.rocketseat.com.br/)
 
+## Melhorias ⬆️
+- Responsividade
+- Salvar o cartão de visitas como .pdf ou .png...
+
 ## Tencologias ⚒️
 - HTML
 - CSS
